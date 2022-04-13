@@ -19,7 +19,7 @@ using namespace std;
 int main()
 {
     //std::cout << "Hello World!\n";
-
+    
     // auto 키워드
     // C에서는 지역변수 선언할 때 사용하나 생략 가능하므로 쓸모가 없음
     // C++ 에서는 해당 키워드 재정

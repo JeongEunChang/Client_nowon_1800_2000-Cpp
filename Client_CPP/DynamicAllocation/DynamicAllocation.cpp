@@ -10,7 +10,7 @@ int main()
 {
     // c 에서 동적할당
     struct Mystruct* a = (Mystruct*)malloc(sizeof(Mystruct));
-    free(a);
+    free(a); // 함수 형태
 
     // c++ 에서 동적할당
     // new 키워드를 사용
@@ -22,7 +22,7 @@ int main()
     int* pi = new int;
     *pi = 100;
     std::cout << *pi << std::endl;
-    delete pi;
+    delete pi; // 키워드 형태
 
     
     return 0;
