@@ -19,7 +19,7 @@ int main()
     
     // cin.get(first,DEFAULT_SIZE).get();
     // cin.get(first,DEFAULT_SIZE).ignore(DEFAULT_SIZE, '\n');
-    getline(cin, firstName);
+    getline(cin, firstName);  // string 자료형에만 사용할 수 있음
 
     cout << "이름을 입력하세요";
 

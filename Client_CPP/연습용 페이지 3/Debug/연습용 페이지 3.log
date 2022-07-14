@@ -1,0 +1,10 @@
+﻿  연습용 페이지 3.cpp
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(26,17): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64 *'입니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(26,17): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(26,17): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(30,24): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(44,21): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(74,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(74,12): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\연습용 페이지 3\연습용 페이지 3.cpp(74,12): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  연습용 페이지 3.vcxproj -> C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000-Cpp\Client_CPP\Debug\연습용 페이지 3.exe
